@@ -13,6 +13,6 @@ We also use CVX toolbox for optimisation.
 ## Usage
 You need to have GSP toolbox (https://epfl-lts2.github.io/gspbox-html/) and CVX toolbox (http://cvxr.com/cvx/download/) installed. Other functions are already included. Once you have everything in place, you should be able to run “Demo.m” and get results of LGE running on synthetic data.
 
-## contact
+## Contact
 If you have any questions, please contact: rui_liu@mymail.sutd.edu.sg.
 Thank you for your interests in our work.
